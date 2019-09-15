@@ -15,6 +15,7 @@ npm install
 ## UI Development
 - build and serve the local dapp serve
 - starts an local server at http://localhost:3000/dev.html
+- access the dapp at http://localhost:3000/dev.html#/aviate.evan
 ```bash
 npm run serve
 ```
